@@ -54,7 +54,7 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The administrator(s) of CMU Tech and Entrepreneurship Slack as of January 1st, 2019:
+The administrator(s) of CMU Tech and Entrepreneurship Slack as of January 1st, 2020:
 
 - @kishan (Kishan Patel)
 - @wsanders (William Sanders)
